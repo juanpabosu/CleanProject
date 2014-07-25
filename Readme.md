@@ -21,7 +21,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ##Steps to reproduce this project
 
-1.	Open R script run_analysis.r using R or RStudio.
+1.	Open R script run_analysis.r using R or RStudio. This file contents comments with the step by step for obtaining the tidy data set, see the comments slowly, please.
 2.	Change the parameter of the setwd function call to the working directory/folder  where these the R script file is saved
 3.	Run the R script run_analysis.r.
 
