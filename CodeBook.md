@@ -23,7 +23,7 @@ featAverage | Feature: Average of each variable for each activity and each subje
 Dataset structure
 -----------------
 
-Classes ‘data.table’ and 'data.frame':	11880 obs. of  11 variables:
+Classes data.table and data.frame:	11880 obs. of  11 variables:
 
 ----------------------------|-------------------------------------------------------------
 subject         :| int  1 1 1 1 1 1 1 1 1 1 ...
