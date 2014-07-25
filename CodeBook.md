@@ -62,7 +62,7 @@ Summary of variables
 
                             
    featInstrument   |   featJerk |   featMagnitude | featVariable |featAxis 
- ------------------|-------------|-----------------|-------------|
+ ------------------|-------------|-----------------|-------------|------------
  Accelerometer:7200  | NA  :7200  | NA       :8640  | Mean:5940   | NA:3240  
  Gyroscope    :4680  | Jerk:4680  | Magnitude:3240  | SD  :5940   | X :2880  
                     |             |                 |             | Y :2880  
